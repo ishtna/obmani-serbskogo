@@ -1,0 +1,16 @@
+# Environment and dependencies
+node_modules/
+package-lock.json
+
+# Personal notes & drafts
+my style.json
+tg_post.md
+AI_CONTEXT.md
+plans/
+
+# OS / IDE artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+scratch/
